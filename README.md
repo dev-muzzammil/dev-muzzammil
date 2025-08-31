@@ -37,7 +37,7 @@ A demonstration of class-level validation, logging, and security using Aspect-Or
 
 ---
 
-## 🍅 Pomodoro Timer Project
+## Pomodoro Timer Project
 
 A Python-based **Pomodoro Timer** to boost productivity by breaking work into intervals with short breaks.  
 
