@@ -8,8 +8,6 @@
 🐍 **Python | Core Programming**
 
 
-📫 Reach me at: **khanmuzzamml815@gmail.com**  
-
 ---
 
 ## 📂 Featured Projects  
