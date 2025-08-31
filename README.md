@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Muzzammil Khan  
 
-🚀 **Backend Developer** passionate about building scalable and production-grade applications.  
-💻 Skilled in **Java, Spring Boot, GraphQL, MySQL, PostgreSQL, System Design**  
-☁️ Currently learning **Cloud & DevOps** to level up backend infrastructure.  
-📫 Reach me at: **khanmuzzamml815@gmail.com**  
+🚀 **Backend Developer | Scalable Systems | Problem Solver**  
+
+💻 Skilled in **Java, Spring Boot, MySQL, GraphQL, System Design**  
+🔒 Experience with **Security (JWT, AOP Security), Logging, Validation, Liquibase**  
+☁️ Exploring **Cloud & DevOps (AWS, Docker, CI/CD)**  
+
+📫 Reach me at: **khanmuzzamml815@gmail.com**
 
 ---
 
