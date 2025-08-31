@@ -28,7 +28,7 @@ A demonstration of class-level validation, logging, and security using Aspect-Or
 | Project                     | Description                                                                 | Repository Link                                      |
 |-----------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------|
 | SMTP Demo                   | Application for sending emails using Spring Boot.                           | [View Repository](https://github.com/dev-muzzammil/SMTP) |
-| JUnit Testing Demo          | Unit testing implementation using JUnit and Mockito.                        | [View Repository](https://github.com/dev-muzzammil/Junit-testing) |
+| JUnit Testing Demo          | Implemented comprehensive unit tests for service and repository layers using JUnit and Mockito, and added Integration tests to verify end-to-end system interactions, including database operations, REST endpoints, and service workflows.                        | [View Repository](https://github.com/dev-muzzammil/Junit-testing) |
 | School Management System    | CRUD-based application for managing school records.                         | [View Repository](https://github.com/dev-muzzammil/school-management-system) |
 | User Details Service        | Service for managing user information with Spring Boot.                     | [View Repository](https://github.com/dev-muzzammil/user_details) |
 | File Upload Demo            | Application for uploading and managing files.                               | [View Repository](https://github.com/dev-muzzammil/file_upload) |
@@ -47,7 +47,6 @@ A demonstration of class-level validation, logging, and security using Aspect-Or
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style-for-the-badge&logo=postgresql&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style-for-the-badge&logo=python&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style-for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
