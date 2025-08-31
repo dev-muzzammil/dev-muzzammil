@@ -2,10 +2,11 @@
 
 🚀 **Backend Developer | Scalable Systems | Problem Solver**  
 
-💻 Skilled in **Java, Spring Boot, MySQL, GraphQL, System Design**  
-🔒 Experience with **Security (JWT, AOP Security), Logging, Validation, Liquibase**  
+💻 Skilled in **Java, Spring Boot, MySQL, GraphQL** | **Learning System Design**  
+🔒 Experience with **Security (JWT, AOP), Logging, Validation, Liquibase**  
 ☁️ Exploring **Cloud & DevOps (AWS, Docker, CI/CD)**  
-🐍 Basic knowledge of **Python**  
+🐍 **Python | Core Programming**
+
 
 📫 Reach me at: **khanmuzzamml815@gmail.com**  
 
