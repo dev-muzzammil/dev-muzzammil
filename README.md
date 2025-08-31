@@ -37,6 +37,19 @@ A demonstration of class-level validation, logging, and security using Aspect-Or
 
 ---
 
+## 🍅 Pomodoro Timer Project
+
+A Python-based **Pomodoro Timer** to boost productivity by breaking work into intervals with short breaks.  
+
+### Features
+- Customizable work intervals
+- Short and long break timers
+- Desktop notifications
+- Simple CLI interface
+- **Repository**: [View Repository](https://github.com/dev-muzzammil/pomodora-app)
+
+---
+
 ## Technical Skills & GitHub Statistics
 
 ![Muzzammil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-muzzammil&show_icons=true&theme=dark)  
