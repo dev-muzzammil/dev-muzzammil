@@ -38,8 +38,8 @@ A demonstration of class-level validation, logging, and security using Aspect-Or
 
 ## Technical Skills & GitHub Statistics
 
-![Muzzammil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-muzzammil&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-muzzammil&layout=compact&theme=radical)
+![Muzzammil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-muzzammil&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-muzzammil&layout=compact&theme=dark)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
