@@ -11,6 +11,16 @@
 
 ---
 
+## 📂 Featured Projects  
+
+### 📝 Task Management System  
+✔ Role-based authentication (Admin & Employee)  
+✔ Task approval workflow  
+✔ Issues & timelines with filters on Dashboard  
+✔ **Tech:** Spring Boot, MySQL, JWT Security
+
+---
+
 ### ⚡ Demo Project with Liquibase & AOP  
 ✔ Class-level validation  
 ✔ Logging & Security AOP  
@@ -51,4 +61,3 @@
 
 ## 🔗 Connect with Me  
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:khanmuzzamml815@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/muzammil-khan-6b7838377)  
