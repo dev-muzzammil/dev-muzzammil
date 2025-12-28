@@ -3,7 +3,7 @@
 
 🚀**Backend Developer | Specializing in Scalable Systems and Problem Solving**
 
-Proficient in **Java, Spring Boot, MySQL, PostgreSQL, and GraphQL**, primarily work on Linux with a focus on building robust and secure applications. Actively developing expertise in **System Design (Learning)** and  **Exploring Cloud & DevOps technologies (AWS, Docker, CI/CD)**. Expertise in implementing **security (JWT, AOP), logging, validation, and database versioning with Liquibase (Intermediate)**. Additional experience in **Python** for core programming tasks.
+Proficient in **Java, Spring Boot, MySQL, PostgreSQL, and GraphQL**, primarily work on **Linux** with a focus on building robust and secure applications. Actively developing expertise in **System Design (Learning)** and  **Exploring Cloud & DevOps technologies (AWS, Docker, CI/CD)**. Expertise in implementing **security (JWT, AOP), logging, validation, and database versioning with Liquibase (Intermediate)**. Additional experience in **Python** for core programming tasks.
 
 ---
 
