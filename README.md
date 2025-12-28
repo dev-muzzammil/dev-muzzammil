@@ -64,13 +64,11 @@ A Python-based **Pomodoro Timer** to boost productivity by breaking work into in
 
 ---
 
-## My Contribution 
+## Technical Skills & GitHub Statistics
 
-![Contribution Snake](https://raw.githubusercontent.com/dev-muzzammil/dev-muzzammil/output/snake-dark.svg)
 
-![Ocean GIF](https://raw.githubusercontent.com/dev-muzzammil/dev-muzzammil/output/ocean.gif)
-
----
+### Recent Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-muzzammil&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff)
 
 ## Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:khanmuzzammil815@gmail.com)  
