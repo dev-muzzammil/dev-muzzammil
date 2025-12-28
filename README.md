@@ -59,20 +59,14 @@ A Python-based **Pomodoro Timer** to boost productivity by breaking work into in
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,graphql,docker,git,cicd,nginx,linux,postman,liquibase,gradle&theme=dark&perline=12" />
 
-
 ### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=dev-muzzammil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
+![GitHub Stats](https://raw.githubusercontent.com/dev-muzzammil/dev-muzzammil/main/stats.svg)
 
 ### Most Used Languages
-
-![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=dev-muzzammil&layout=donut&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://raw.githubusercontent.com/dev-muzzammil/dev-muzzammil/main/top-langs.svg)
 
 ### Contribution Streak
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=dev-muzzammil&theme=tokyonight&hide_border=true)
+![Streak Stats](https://raw.githubusercontent.com/dev-muzzammil/dev-muzzammil/main/streak.svg)
 
 
 ### Recent Activity
