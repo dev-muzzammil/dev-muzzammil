@@ -48,37 +48,43 @@ A Python-based **Pomodoro Timer** to boost productivity by breaking work into in
 - Simple CLI interface
 - **Repository**: [View Repository](https://github.com/dev-muzzammil/pomodora-app)
 
----
-
-## Technical Skills & GitHub Statistics
-### Tech Stack
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
+
 ## Technical Skills & GitHub Statistics
+
+
+### Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,graphql,docker,git,cicd,nginx,linux,postman,liquibase,gradle&theme=dark&perline=12" />
+
 
 ### GitHub Stats
-![GitHub Stats](https://raw.githubusercontent.com/dev-muzzammil/dev-muzzammil/output/stats.svg)
 
-### Top Languages
-![Top Languages](https://raw.githubusercontent.com/dev-muzzammil/dev-muzzammil/output/top-langs.svg)
+![GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=dev-muzzammil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=dev-muzzammil&layout=donut&theme=tokyonight&hide_border=true)
+
 
 ### Contribution Streak
-![Streak Stats](https://raw.githubusercontent.com/dev-muzzammil/dev-muzzammil/output/streak.svg)
 
-### Achievements & Trophies
-[![trophies](https://github-profile-trophy.vercel.app/?username=dev-muzzammil&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=dev-muzzammil&theme=tokyonight&hide_border=true)
+
 
 ### Recent Activity
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-muzzammil&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff)
 
+
+---
+
 ## Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:khanmuzzammil815@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzzammil-khan-01b0b9387)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanmuzzammil815@gmail.com)
+
+---
