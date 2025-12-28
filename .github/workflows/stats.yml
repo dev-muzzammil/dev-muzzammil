@@ -1,0 +1,37 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: dev-muzzammil
+          theme: tokyonight
+          hide_border: true
+
+      - name: Generate Streak
+        uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          username: dev-muzzammil
+          theme: tokyonight
+          hide_border: true
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
