@@ -1,27 +1,35 @@
-name: Generate GitHub Stats
+name: Generate Readme Stats
 
 on:
   schedule:
     - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:
+  workflow_dispatch:   # Manual run
 
 permissions:
   contents: write
 
 jobs:
-  stats:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Stats
+      - name: Generate GitHub Stats
         uses: anuraghazra/github-readme-stats@master
         with:
           username: dev-muzzammil
           theme: tokyonight
           hide_border: true
 
-      - name: Generate Streak
+      - name: Generate Top Languages
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: dev-muzzammil
+          theme: tokyonight
+          hide_border: true
+          endpoint: /api/top-langs
+
+      - name: Generate Streak Stats
         uses: DenverCoder1/github-readme-streak-stats@master
         with:
           username: dev-muzzammil
