@@ -5,7 +5,7 @@ Spring Boot Microservices | Finacle Core Banking | Kubernetes + Helm Charts | CI
 
 Building scalable backend systems for a Finacle-based retail banking application targeted at UAE market.
 
-### Current Work
+## Current Work
 
 - **Finacle Retail Banking Microservices** @ Afucent Technologies  
   Working on **Customer, KYC, Account, Transaction, Notification, Customer-Onboarding-Consumer & Customer-Onboarding-Producer** services.  
@@ -14,20 +14,20 @@ Building scalable backend systems for a Finacle-based retail banking application
   • Deployed on private cloud (Minicloud) using Kubernetes, Helm Charts, Docker & GitHub Actions
 
 
-### Featured Projects
+## Featured Projects
 
 
-**Task Management System (TMS)**  
+### **Task Management System (TMS)**  
 Role-based employee module with JWT authentication, layered architecture and real-time task tracking.  
 - **Impact**: Improved internal workflow efficiency and system maintainability.  
 - **Technologies**: Spring Boot, MySQL, JWT Security  
 - **Repository**: [View on GitHub](https://github.com/dev-muzzammil/task-management-system)
 
 
-**Liquibase + AOP Demo**  
-Demonstration of class-level validation, logging, security using Aspect-Oriented Programming and database versioning.  
-- **Impact**: Ensured data integrity and simplified database migrations.  
-- **Technologies**: Spring Boot, Liquibase, AOP, Gradle  
+### **DevOPS and Liquibase Demo**
+- Demonstration of class-level validation, logging, security using JWT, and Aspect-Oriented Programming (AOP) along with database versioning using Liquibase. The application is containerized with Docker and deployed on Kubernetes. Code quality is enforced using Google Checkstyle and SonarQube. CI/CD pipelines are implemented for automated build, test, and deployment. Additionally, Prometheus and Grafana are integrated for application monitoring and visualization of metrics.
+- **Impact**: Ensured data integrity, simplified database migrations, and improved system observability and maintainability through structured logging, monitoring, and environment-based configurations.
+- **Technologies**: Spring Boot, Liquibase, AOP, Docker, Kubernetes, CI/CD, Prometheus, Grafana, Google Checkstyle, SonarQube, Spring Profiles, Spring Boot Actuator, OpenAPI (Swagger), Gradle
 - **Repository**: [View on GitHub](https://github.com/dev-muzzammil/liquibase-demo-Project)
 
 
@@ -45,7 +45,7 @@ Demonstration of class-level validation, logging, security using Aspect-Oriented
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**: Python, Java, Spring Boot, Spring Security (JWT), REST APIs, Microservices  
 **Databases**: MySQL, PostgreSQL, Liquibase, MongoDB  
@@ -55,7 +55,7 @@ Demonstration of class-level validation, logging, security using Aspect-Oriented
 
 ---
 
-### Recent Activity
+## Recent Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-muzzammil&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff)
 
