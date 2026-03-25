@@ -12,12 +12,15 @@ Building scalable backend systems for a Finacle-based retail banking application
   • Data consistency & SOLID principles  
   • Deployed on private cloud (Minicloud) using Kubernetes, Helm Charts, Docker & GitHub Actions
 
+
 ### Featured Projects
+
 **Task Management System (TMS)**  
 Role-based employee module with JWT authentication, layered architecture and real-time task tracking.  
 - **Impact**: Improved internal workflow efficiency and system maintainability.  
 - **Technologies**: Spring Boot, MySQL, JWT Security  
 - **Repository**: [View on GitHub](https://github.com/dev-muzzammil/task-management-system)
+
 
 **Liquibase + AOP Demo**  
 Demonstration of class-level validation, logging, security using Aspect-Oriented Programming and database versioning.  
@@ -25,7 +28,9 @@ Demonstration of class-level validation, logging, security using Aspect-Oriented
 - **Technologies**: Spring Boot, Liquibase, AOP, Gradle  
 - **Repository**: [View on GitHub](https://github.com/dev-muzzammil/liquibase-demo-Project)
 
+
 ### Other Spring Boot Demo Projects
+
 | Project                    | Description                                      | Repository Link |
 |----------------------------|--------------------------------------------------|-----------------|
 | SMTP Demo                  | Email sending application                        | [View](https://github.com/dev-muzzammil/SMTP) |
@@ -35,11 +40,11 @@ Demonstration of class-level validation, logging, security using Aspect-Oriented
 | File Upload Demo           | File upload & management                         | [View](https://github.com/dev-muzzammil/file_upload) |
 | MapStruct Demo             | DTO ↔ Entity mapping                             | [View](https://github.com/dev-muzzammil/mapStruct) |
 
-### Personal Project
-**Pomodoro Timer** – Python CLI productivity tool with desktop notifications.
+---
 
 ### Tech Stack
-**Languages & Frameworks**: Java, Spring Boot 3, Spring Security (JWT), REST APIs, Microservices  
+
+**Languages & Frameworks**: Python, Java, Spring Boot 3, Spring Security (JWT), REST APIs, Microservices  
 **Databases**: MySQL, PostgreSQL, Liquibase  
 **DevOps**: Docker, Kubernetes, Helm Charts, GitHub Actions, Linux (Ubuntu)  
 **Tools**: Git, Postman, Gradle, Maven
