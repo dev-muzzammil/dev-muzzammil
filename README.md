@@ -3,9 +3,10 @@
 **Java Backend & DevOps Engineer**  
 Spring Boot Microservices | Finacle Core Banking | Kubernetes + Helm Charts | CI/CD
 
-Building scalable backend systems for a Finacle-based retail banking application (Phase-1, targeted at UAE market).
+Building scalable backend systems for a Finacle-based retail banking application targeted at UAE market.
 
 ### Current Work
+
 - **Finacle Retail Banking Microservices** @ Afucent Technologies  
   Working on **Customer, KYC, Account, Transaction, Notification, Customer-Onboarding-Consumer & Customer-Onboarding-Producer** services.  
   • Real-time transaction workflows  
@@ -14,6 +15,7 @@ Building scalable backend systems for a Finacle-based retail banking application
 
 
 ### Featured Projects
+
 
 **Task Management System (TMS)**  
 Role-based employee module with JWT authentication, layered architecture and real-time task tracking.  
@@ -40,14 +42,16 @@ Demonstration of class-level validation, logging, security using Aspect-Oriented
 | File Upload Demo           | File upload & management                         | [View](https://github.com/dev-muzzammil/file_upload) |
 | MapStruct Demo             | DTO ↔ Entity mapping                             | [View](https://github.com/dev-muzzammil/mapStruct) |
 
+
 ---
 
 ### Tech Stack
 
-**Languages & Frameworks**: Python, Java, Spring Boot 3, Spring Security (JWT), REST APIs, Microservices  
-**Databases**: MySQL, PostgreSQL, Liquibase  
+**Languages & Frameworks**: Python, Java, Spring Boot, Spring Security (JWT), REST APIs, Microservices  
+**Databases**: MySQL, PostgreSQL, Liquibase, MongoDB  
 **DevOps**: Docker, Kubernetes, Helm Charts, GitHub Actions, Linux (Ubuntu)  
 **Tools**: Git, Postman, Gradle, Maven
+
 
 ---
 
