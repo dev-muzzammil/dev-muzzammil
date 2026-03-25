@@ -1,74 +1,58 @@
-# 👋 Hi, I'm Muzzammil Khan  
+# 👋 Hi, I'm Muzzammil Khan
 
+**Java Backend & DevOps Engineer**  
+Spring Boot Microservices | Finacle Core Banking | Kubernetes + Helm Charts | CI/CD
 
-🚀**Backend Developer | Specializing in Scalable Systems and Problem Solving**
+Building scalable backend systems for a Finacle-based retail banking application (Phase-1, targeted at UAE market).
 
-Proficient in **Java, Spring Boot, MySQL, PostgreSQL, and GraphQL**, primarily work on **Linux** with a focus on building robust and secure applications. Actively developing expertise in **System Design (Learning)** and  **Exploring Cloud & DevOps technologies (AWS, Docker, CI/CD)**. Expertise in implementing **security (JWT, AOP), logging, validation, and database versioning with Liquibase (Intermediate)**. Additional experience in **Python** for core programming tasks.
+### Current Work
+- **Finacle Retail Banking Microservices** @ Afucent Technologies  
+  Working on **Customer, KYC, Account, Transaction, Notification, Customer-Onboarding-Consumer & Customer-Onboarding-Producer** services.  
+  • Real-time transaction workflows  
+  • Data consistency & SOLID principles  
+  • Deployed on private cloud (Minicloud) using Kubernetes, Helm Charts, Docker & GitHub Actions
 
----
-
-## Featured Projects
-
-### Task Management System
-A role-based application with admin and employee authentication, featuring a task approval workflow and a dashboard with filtered issues and timelines.  
-- **Impact**: Streamlined task management for teams, improving workflow efficiency.  
+### Featured Projects
+**Task Management System (TMS)**  
+Role-based employee module with JWT authentication, layered architecture and real-time task tracking.  
+- **Impact**: Improved internal workflow efficiency and system maintainability.  
 - **Technologies**: Spring Boot, MySQL, JWT Security  
+- **Repository**: [View on GitHub](https://github.com/dev-muzzammil/task-management-system)
 
----
-
-### Demo Project with Liquibase & AOP
-A demonstration of class-level validation, logging, and security using Aspect-Oriented Programming (AOP), with database versioning managed via Liquibase and built with Gradle.  
-- **Impact**: Ensured consistent data integrity and simplified database migrations.  
+**Liquibase + AOP Demo**  
+Demonstration of class-level validation, logging, security using Aspect-Oriented Programming and database versioning.  
+- **Impact**: Ensured data integrity and simplified database migrations.  
 - **Technologies**: Spring Boot, Liquibase, AOP, Gradle  
 - **Repository**: [View on GitHub](https://github.com/dev-muzzammil/liquibase-demo-Project)
 
----
+### Other Spring Boot Demo Projects
+| Project                    | Description                                      | Repository Link |
+|----------------------------|--------------------------------------------------|-----------------|
+| SMTP Demo                  | Email sending application                        | [View](https://github.com/dev-muzzammil/SMTP) |
+| JUnit Testing Demo         | Comprehensive unit + integration tests           | [View](https://github.com/dev-muzzammil/Junit-testing) |
+| School Management System   | CRUD application                                 | [View](https://github.com/dev-muzzammil/school-management-system) |
+| User Details Service       | User management service                          | [View](https://github.com/dev-muzzammil/user_details) |
+| File Upload Demo           | File upload & management                         | [View](https://github.com/dev-muzzammil/file_upload) |
+| MapStruct Demo             | DTO ↔ Entity mapping                             | [View](https://github.com/dev-muzzammil/mapStruct) |
 
-## Other Spring Boot Demo Projects
+### Personal Project
+**Pomodoro Timer** – Python CLI productivity tool with desktop notifications.
 
-| Project                     | Description                                                                 | Repository Link                                      |
-|-----------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------|
-| SMTP Demo                   | Application for sending emails using Spring Boot.                           | [View Repository](https://github.com/dev-muzzammil/SMTP) |
-| JUnit Testing Demo          | Implemented comprehensive unit tests for service and repository layers using JUnit and Mockito, and added Integration tests to verify end-to-end system interactions, including database operations, REST endpoints, and service workflows.                        | [View Repository](https://github.com/dev-muzzammil/Junit-testing) |
-| School Management System    | CRUD-based application for managing school records.                         | [View Repository](https://github.com/dev-muzzammil/school-management-system) |
-| User Details Service        | Service for managing user information with Spring Boot.                     | [View Repository](https://github.com/dev-muzzammil/user_details) |
-| File Upload Demo            | Application for uploading and managing files.                               | [View Repository](https://github.com/dev-muzzammil/file_upload) |
-| MapStruct Demo              | Implementation of DTO and entity mapping using MapStruct.                   | [View Repository](https://github.com/dev-muzzammil/mapStruct) |
-
----
-
-## Pomodoro Timer Project
-
-A Python-based **Pomodoro Timer** to boost productivity by breaking work into intervals with short breaks.  
-
-### Features
-- Customizable work intervals
-- Short and long break timers
-- Desktop notifications
-- Simple CLI interface
-- **Repository**: [View Repository](https://github.com/dev-muzzammil/pomodora-app)
-
+### Tech Stack
+**Languages & Frameworks**: Java, Spring Boot 3, Spring Security (JWT), REST APIs, Microservices  
+**Databases**: MySQL, PostgreSQL, Liquibase  
+**DevOps**: Docker, Kubernetes, Helm Charts, GitHub Actions, Linux (Ubuntu)  
+**Tools**: Git, Postman, Gradle, Maven
 
 ---
-
-
-## Technical Skills & GitHub Statistics
-
-
-### Languages and Tools
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,graphql,docker,git,cicd,nginx,linux,postman,liquibase,gradle&theme=dark&perline=12" />
-
 
 ### Recent Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-muzzammil&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff)
 
-
 ---
 
 ## Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzzammil-khan-01b0b9387)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanmuzzammil815@gmail.com)
 
